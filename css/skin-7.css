@@ -1,0 +1,87 @@
+/* LINKS */
+a {
+	color: #2599a4;
+}
+
+#nav li.active a {
+    color: #36c0cc;
+}
+
+/*  SLIDER HEADER TXT */
+#header div.content h2 {
+	color:#2599a4;
+}
+
+/* NAVIGATION */
+#nav li.hover a,
+#nav a:hover {
+	color: #2599a4;
+}
+
+#nav ul ul li.hover a,
+#nav ul ul a:hover,
+#nav ul ul li.hover ul a:hover {
+	color: #ffffff;
+	background-color: #36c0cc;
+}
+
+#nav li.hover ul a {
+	color: #363636;
+}
+
+#nav li.hover ul a:hover {
+	color: #ffffff;
+}
+
+#nav ul ul a,
+#nav ul ul li.hover ul a {
+	color: #363636;
+	background-color: #ffffff;
+}
+
+/* HEADER SLIDER */
+div.readmore a {
+	background: url(../images/skins/skin-7/btn-header.png) no-repeat 0 0 transparent;
+	color: #ffffff;
+}
+
+/* COLUMN HEADING */
+div#tabs ul.ui-tabs-nav,
+#column h4 {
+	background: url(../images/skins/skin-7/heading-column.png) repeat-x 0 00 transparent;
+	color: #ffffff;
+}
+
+#column.left-column h4 {
+	background-image: url(../images/skins/skin-7/heading-column-left.png);
+}
+
+#column h4 a {
+	color: #ffffff;
+}
+
+/* BUTTONS */
+button.btn.skin,
+a.btn.skin {
+	color: #ffffff;
+   background-color: #36c0cc;
+}
+
+/* BLOG */
+div.entry-meta span.post-date {
+	background: url(../images/skins/skin-7/heading-blog-date.png) no-repeat 0 5px transparent;
+}
+
+#content.right-content span.post-date{ right:-46px; left:auto; background-image:url(../images/skins/skin-7/heading-blog-date-right.png); }
+
+/* PORTFOLIO */
+.portfolio.grid li a.folio-more,
+.portfolio.grid div.content div.row span.name {
+	background-color: #36c0cc;
+	color: #ffffff;
+}
+
+/* MISC */
+.highlight {
+	color: #2599a4;
+}

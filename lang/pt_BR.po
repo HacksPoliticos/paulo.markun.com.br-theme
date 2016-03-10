@@ -1,0 +1,712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brainstorm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 23:06+0100\n"
+"PO-Revision-Date: 2011-08-19 13:51-0300\n"
+"Last-Translator: Luciano Santa Brígida <luciano.santabrigida@sbvirtual.com.br>\n"
+"Language-Team: jvanoel <jvanoelhelp@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:24
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este post é protegido por senha. Digite a senha para ver os comentários."
+
+#: ../comments.php:32
+msgid "No Responses"
+msgstr "Sem respostas"
+
+#: ../comments.php:32
+msgid "One Response"
+msgstr "Uma Resposta"
+
+#: ../comments.php:32
+msgid "% Responses"
+msgstr "% Respostas"
+
+#: ../comments.php:47
+msgid "Comment on this post"
+msgstr "Comente neste post"
+
+#: ../comments.php:47
+#, php-format
+msgid "Reply to %s"
+msgstr "Responder para %s"
+
+#: ../comments.php:50
+msgid "You must be logged in to post a comment."
+msgstr "Você deve estar logado para comentar."
+
+#: ../comments.php:59
+msgid "Logged in as"
+msgstr "Logado como"
+
+#: ../comments.php:59
+msgid "Log out"
+msgstr "Logout"
+
+#: ../comments.php:64
+msgid "Name"
+msgstr "Nome"
+
+#: ../comments.php:68
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:72
+msgid "Website"
+msgstr "Website"
+
+#: ../footer.php:17
+msgid "To top"
+msgstr "Para cima"
+
+#: ../footer.php:28
+msgid "Our Facebook fan page!"
+msgstr "Nossa página no Facebook!"
+
+#: ../footer.php:32
+msgid "Follow us on Twitter"
+msgstr "Siga-nos no Twitter"
+
+#: ../footer.php:36
+msgid "Our Linkedin account"
+msgstr "Nossa conta no Linkedin"
+
+#: ../footer.php:40
+msgid "Our Flickr images"
+msgstr "Nossas fotos no Flickr"
+
+#: ../footer.php:44
+msgid "Our Vimeo videos"
+msgstr "Nossos videos no Vimeo"
+
+#: ../footer.php:48
+msgid "Our DesignFloat profile"
+msgstr "Nosso perfil DesignFloat"
+
+#: ../footer.php:52
+msgid "Friendfeed"
+msgstr "Friendfeed"
+
+#: ../footer.php:56
+msgid "Myspace"
+msgstr "Myspace"
+
+#: ../sidebar-blog.php:32
+#: ../sidebar-portfolio.php:32
+#: ../sidebar.php:32
+msgid "No Widgets Added Yet"
+msgstr "Nenhum widget adicionado ainda"
+
+#: ../sidebar-blog.php:33
+#: ../sidebar-portfolio.php:33
+#: ../sidebar.php:33
+msgid "Please add them in the WordPress admin page under Appearance &rarr; Widgets. The widget section is"
+msgstr "Por favor, adicione-os na área administrativa em Aparência &arr; Widgets. A seção widget é"
+
+#: ../template-portfolio.php:103
+#: ../functions/shortcodes.php:886
+msgid "Client"
+msgstr "Cliente"
+
+#: ../template-portfolio.php:109
+#: ../functions/shortcodes.php:893
+msgid "Date"
+msgstr "Data"
+
+#: ../template-portfolio.php:118
+#: ../functions/shortcodes.php:902
+msgid "Tags"
+msgstr "Tags"
+
+#: ../template-portfolio.php:132
+#: ../functions/metaboxes.php:602
+#: ../functions/shortcodes.php:916
+msgid "Author"
+msgstr "Autor"
+
+#: ../template-portfolio.php:151
+#: ../template-portfolio.php:227
+#: ../template-portfolio.php:278
+#: ../functions/shortcodes.php:852
+#: ../functions/shortcodes.php:934
+msgid "The portfolio is empty"
+msgstr "O portfolio está vazio"
+
+#: ../template-portfolio.php:269
+msgid "View project"
+msgstr "Ver projeto"
+
+#: ../template-portfolio.php:271
+msgid "Go to website"
+msgstr "Ir para website"
+
+#: ../functions/common.php:59
+msgid "Your comment is awaiting moderation"
+msgstr "Seu comentário aguarda moderação"
+
+#: ../functions/common.php:148
+msgid "About the author"
+msgstr "Sobre o autor"
+
+#: ../functions/common.php:152
+msgid "Written by"
+msgstr "Escrito por"
+
+#: ../functions/common.php:153
+msgid "Currently there is no additional info about this author."
+msgstr "Atualmente, não há informações adicionais sobre este autor."
+
+#: ../functions/common.php:202
+msgid "No comments"
+msgstr "Sem comentários"
+
+#: ../functions/common.php:202
+msgid "One comment"
+msgstr "Um comentário"
+
+#: ../functions/common.php:202
+#, php-format
+msgid "% comments"
+msgstr "% comentários"
+
+#: ../functions/common.php:202
+msgid "Comments disabled"
+msgstr "Comentários desabilitados"
+
+#: ../functions/metaboxes-framework.php:173
+msgid "Yes"
+msgstr "Sim"
+
+#: ../functions/metaboxes-framework.php:174
+msgid "No"
+msgstr "Não"
+
+#: ../functions/metaboxes-framework.php:258
+msgid "Active widget section:"
+msgstr "Seção ativa de widgets:"
+
+#: ../functions/metaboxes-framework.php:258
+msgid "remove"
+msgstr "remover"
+
+#: ../functions/metaboxes-framework.php:264
+msgid "Create New"
+msgstr "Criar Novo"
+
+#: ../functions/metaboxes-framework.php:265
+msgid "or"
+msgstr "ou"
+
+#: ../functions/metaboxes-framework.php:266
+msgid "Select Existing"
+msgstr "Selecione Existente"
+
+#: ../functions/metaboxes-framework.php:268
+msgid "- Select -"
+msgstr "- Selecione -"
+
+#: ../functions/metaboxes-framework.php:309
+msgid "Currently active slides:"
+msgstr "Slides ativos atualmente:"
+
+#: ../functions/metaboxes-framework.php:309
+msgid "+ Add slides"
+msgstr "+ Adcionar slides"
+
+#: ../functions/metaboxes-framework.php:329
+msgid "Add slides:"
+msgstr "Adcionar slides:"
+
+#: ../functions/metaboxes-framework.php:329
+#: ../functions/metaboxes-framework.php:498
+msgid "&larr; Finish adding"
+msgstr "&larr; Encerrar adição"
+
+#: ../functions/metaboxes-framework.php:359
+#: ../functions/metaboxes-framework.php:528
+msgid "Added"
+msgstr "Adicionado"
+
+#: ../functions/metaboxes-framework.php:375
+msgid "Edit slide"
+msgstr "Ediar slide"
+
+#: ../functions/metaboxes-framework.php:377
+#: ../functions/metaboxes.php:165
+#: ../functions/metaboxes.php:364
+#: ../functions/metaboxes.php:573
+msgid "Title"
+msgstr "Título"
+
+#: ../functions/metaboxes-framework.php:378
+#: ../functions/metaboxes.php:172
+#: ../functions/metaboxes.php:371
+#: ../functions/metaboxes.php:580
+msgid "Description"
+msgstr "Descrição"
+
+#: ../functions/metaboxes-framework.php:379
+msgid "Link"
+msgstr "Link"
+
+#: ../functions/metaboxes-framework.php:380
+msgid "Save"
+msgstr "Salvar"
+
+#: ../functions/metaboxes-framework.php:380
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../functions/metaboxes-framework.php:400
+msgid "Blank"
+msgstr "Vazio"
+
+#: ../functions/metaboxes-framework.php:405
+msgid "Separator"
+msgstr "Separador"
+
+#: ../functions/metaboxes-framework.php:410
+msgid "Latest Tweet"
+msgstr "Último Tweet"
+
+#: ../functions/metaboxes-framework.php:415
+msgid "Service"
+msgstr "Serviçe"
+
+#: ../functions/metaboxes-framework.php:420
+#: ../functions/post-types.php:54
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: ../functions/metaboxes-framework.php:425
+#: ../functions/post-types.php:28
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../functions/metaboxes-framework.php:430
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+#: ../functions/metaboxes-framework.php:478
+msgid "Currently active images:"
+msgstr "Imagens atualmente ativas:"
+
+#: ../functions/metaboxes-framework.php:478
+msgid "+ Add image"
+msgstr "+ Adicionar imagem"
+
+#: ../functions/metaboxes-framework.php:498
+msgid "Add images:"
+msgstr "Adicionar imagens:"
+
+#: ../functions/metaboxes-framework.php:564
+msgid "There aren't any categories yet. All will be shown."
+msgstr "Não existem categorias ainda. Tudo será exibido."
+
+#: ../functions/metaboxes.php:19
+#: ../functions/metaboxes.php:35
+#: ../functions/metaboxes.php:51
+msgid "Content composer"
+msgstr "Compositor de Conteúdo"
+
+#: ../functions/metaboxes.php:27
+#: ../functions/metaboxes.php:43
+#: ../functions/metaboxes.php:59
+msgid "Layout & Other Settings"
+msgstr "Layout & Outras Configurações"
+
+#: ../functions/metaboxes.php:67
+msgid "Testimonial Information"
+msgstr "Informação do Depoimento"
+
+#: ../functions/metaboxes.php:104
+#: ../functions/metaboxes.php:270
+#: ../functions/metaboxes.php:408
+msgid "Layout"
+msgstr "Layout"
+
+#: ../functions/metaboxes.php:105
+#: ../functions/metaboxes.php:271
+#: ../functions/metaboxes.php:409
+msgid "Choose the layout for this page. The options for portfolio and other page types is different."
+msgstr "Escolha o layout para esta página. As opções para portfolio e outros tipos de página são diferentes."
+
+#: ../functions/metaboxes.php:128
+#: ../functions/metaboxes.php:294
+#: ../functions/metaboxes.php:432
+msgid "Custom sidebar"
+msgstr "Barra lateral personalizada"
+
+#: ../functions/metaboxes.php:129
+msgid "Bellow you can create a new \"widgets section\" for the sidebar or select one that you previously made. To create a new one just type in the name (ex. My Widgets). The default \"widget section\" is \"Page Widgets\"."
+msgstr "Abaixo você pode criar uma nova \"seção de widget\" para a barra lateral ou selecionar uma que você fez anteriormente. Para criar uma nova apenas digite o nome (ex. Meus Widgets). O \"seção widget\" padrão é \"Widgets de Página\"."
+
+#: ../functions/metaboxes.php:151
+#: ../functions/metaboxes.php:350
+#: ../functions/metaboxes.php:559
+msgid "Title&Description"
+msgstr "Título & Descrição"
+
+#: ../functions/metaboxes.php:152
+#: ../functions/metaboxes.php:560
+msgid "If you don't want the title on the page to be the same as the page title enter it here. Description in optional."
+msgstr "Se você não quer que o título na página seja o mesmo que o título da página informe-o aqui. Descrição é opcional."
+
+#: ../functions/metaboxes.php:157
+#: ../functions/metaboxes.php:356
+#: ../functions/metaboxes.php:565
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: ../functions/metaboxes.php:158
+#: ../functions/metaboxes.php:566
+msgid "If you don't want to show the title and description on this page you can disable it by selecting no."
+msgstr "Se você não quer exibir o título e a descrição nesta página você pode desabilitá-lo selecionando 'não'."
+
+#: ../functions/metaboxes.php:190
+#: ../functions/metaboxes.php:317
+#: ../functions/metaboxes.php:525
+msgid "Slider"
+msgstr "Slider"
+
+#: ../functions/metaboxes.php:191
+#: ../functions/metaboxes.php:318
+#: ../functions/metaboxes.php:526
+msgid "The slider that appears at the very top of the page."
+msgstr "O slider que vai aparecer no topo da página."
+
+#: ../functions/metaboxes.php:197
+#: ../functions/metaboxes.php:324
+#: ../functions/metaboxes.php:532
+msgid "Slider height"
+msgstr "Altura do Slider"
+
+#: ../functions/metaboxes.php:198
+#: ../functions/metaboxes.php:325
+#: ../functions/metaboxes.php:533
+msgid "Width is 960px and can't be changed, but height is not specific. Enter the amount of pixels you want the images to be resized to. Default: 250."
+msgstr "Largura é 960px e não pode ser alterada, mas a altura não é específica. Informe a quantidade de pixels que você quer para redimensionar as imagens. Padrão: 250."
+
+#: ../functions/metaboxes.php:205
+#: ../functions/metaboxes.php:332
+#: ../functions/metaboxes.php:540
+msgid "Slider images"
+msgstr "Imagens do Slider"
+
+#: ../functions/metaboxes.php:206
+#: ../functions/metaboxes.php:333
+#: ../functions/metaboxes.php:541
+msgid "Images that will apear in the slider. Use \"Add slides +\" link to add images(only images wider or equal 960px will show). You can drag&amp;drop the added images to change the order."
+msgstr "Imagens que irão aparecer no slider. Use o link \"Adicionar slides +\" para adicionar imagens (apenas imagens iguais ou maior que 960px serão exibidas). Você pode arrastar as imagens adicionadas para mudar a ordem."
+
+#: ../functions/metaboxes.php:224
+msgid "Portfolio categories"
+msgstr "Categorias de Portfolio"
+
+#: ../functions/metaboxes.php:225
+msgid "From which categories to show the portfolio posts. Important: If none selected it will show from all categories."
+msgstr "Para quais categorias exibir os posts de portfolio. Importante: Se nenhuma for selecionada, todas as categorias serão exibidas."
+
+#: ../functions/metaboxes.php:231
+msgid "Categories"
+msgstr "Categorias"
+
+#: ../functions/metaboxes.php:232
+msgid "Which categories to show on this portfolio."
+msgstr "Quais categorias exibir neste portfolio."
+
+#: ../functions/metaboxes.php:295
+msgid "Bellow you can create a new \"widgets section\" for the sidebar or select one that you previously made. To create a new one just type in the name (ex. My Widgets). The default \"widget section\" is \"Blog Widgets\"."
+msgstr "Abaixo você pode criar uma nova \"seção widget\" para a barra lateral ou selecionar uma que você já fez. Para criar uma nova apenas digite o nome (ex. Meus Widgets). A \"seção widget\" padrão é \"Blog Widgets\"."
+
+#: ../functions/metaboxes.php:351
+msgid "If you want the title and description on the post to be custom enter them here here. Description in optional."
+msgstr "Se você quer o título e a descrição no post personalizadas, informe aqui. Descrição é opcional."
+
+#: ../functions/metaboxes.php:357
+msgid "If you want to show the title and description on this page you can enable it by selecting yes."
+msgstr "Se você quer exibir o título e a descrição nesta página, você pode habilitá-los selecionando 'sim'."
+
+#: ../functions/metaboxes.php:433
+msgid "Bellow you can create a new \"widgets section\" for the sidebar or select one that you previously made. To create a new one just type in the name (ex. My Widgets). The default \"widget section\" is \"Portfolio Widgets\"."
+msgstr "Abaixo você pode criar uma nova \"seção widget\" para a barra lateral ou selecionar uma que você já fez. Para criar uma nova apenas digite o nome (ex. Meus Widgets). A \"seção widget\" padrão é \"Widgets de Portfolio\"."
+
+#: ../functions/metaboxes.php:455
+msgid "Project info"
+msgstr "Informações do Projeto"
+
+#: ../functions/metaboxes.php:460
+msgid "Author name"
+msgstr "Nome do Autor"
+
+#: ../functions/metaboxes.php:461
+#: ../functions/metaboxes.php:470
+msgid "Shown in the portfolio information."
+msgstr "Exibir informações do portfolio."
+
+#: ../functions/metaboxes.php:468
+msgid "Client name"
+msgstr "Nome do Cliente"
+
+#: ../functions/metaboxes.php:476
+msgid "Website URL"
+msgstr "URL do website"
+
+#: ../functions/metaboxes.php:478
+msgid "Outside link to the project."
+msgstr "Link externo do projeto."
+
+#: ../functions/metaboxes.php:484
+msgid "Video URL"
+msgstr "URL do Video"
+
+#: ../functions/metaboxes.php:485
+msgid "If you want to show a video in the lightbox instead of images enter the url here (ex. http://www.youtube.com/watch?v=nU5pRGd5caQ)"
+msgstr "Se você quer exibir um video na lightbox ao invés de imagens, informe a url aqui (ex. http://www.youtube.com/watch?v=nU5pRGd5caQ)"
+
+#: ../functions/metaboxes.php:503
+msgid "Lighbox images"
+msgstr "Imagens do Lightbox"
+
+#: ../functions/metaboxes.php:508
+msgid "Portfolio images"
+msgstr "Imagens do Portfolio"
+
+#: ../functions/metaboxes.php:597
+msgid "Testimonial info"
+msgstr "Informações do Depoimento"
+
+#: ../functions/metaboxes.php:603
+msgid "Name of the testimonial author."
+msgstr "Nome do autor do depoimento."
+
+#: ../functions/metaboxes.php:610
+msgid "Position"
+msgstr "Posição"
+
+#: ../functions/metaboxes.php:611
+msgid "For example \"CEO of Google\" and such."
+msgstr "Por exemplo \"CEO do Google\" e similar."
+
+#: ../functions/metaboxes.php:618
+#: ../functions/post-types.php:55
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: ../functions/metaboxes.php:620
+msgid "The content of the testimonial."
+msgstr "O conteúdo do depoimento."
+
+#: ../functions/post-types.php:29
+msgid "Portfolio Post"
+msgstr "Post de Portfolio"
+
+#: ../functions/post-types.php:30
+#: ../functions/post-types.php:56
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: ../functions/post-types.php:31
+msgid "Add New Portfolio Post"
+msgstr "Adicionar Novo Post de Portfolio"
+
+#: ../functions/post-types.php:32
+#: ../functions/post-types.php:58
+msgid "Edit"
+msgstr "Editar"
+
+#: ../functions/post-types.php:33
+msgid "Edit Portfolio Post"
+msgstr "Editar Post do Portfolio"
+
+#: ../functions/post-types.php:34
+msgid "New Portfolio Post"
+msgstr "Novo Post do Portfolio"
+
+#: ../functions/post-types.php:35
+msgid "View Portfolio"
+msgstr "Ver Portfolio"
+
+#: ../functions/post-types.php:36
+msgid "View Portfolio Post"
+msgstr "Ver Post de Portfolio"
+
+#: ../functions/post-types.php:37
+msgid "Search Portfolio Posts"
+msgstr "Buscar Posts de Portfolio"
+
+#: ../functions/post-types.php:38
+msgid "No portfolio posts found"
+msgstr "Nenhum post de portfolio encontrado"
+
+#: ../functions/post-types.php:39
+msgid "No portfolio posts in Trash"
+msgstr "Nenhum post de portfolio na lixeira"
+
+#: ../functions/post-types.php:40
+msgid "Parent Portfolio"
+msgstr "Portfolio Pai"
+
+#: ../functions/post-types.php:57
+msgid "Add New Testimonial"
+msgstr "Adicionar Novo Depoimento"
+
+#: ../functions/post-types.php:59
+msgid "Edit Testimonial"
+msgstr "Ediar Depoimento"
+
+#: ../functions/post-types.php:60
+msgid "New Testimonial Post"
+msgstr "Novo Post de Depoimento"
+
+#: ../functions/post-types.php:61
+msgid "View Testimonials"
+msgstr "Ver Depoimentos"
+
+#: ../functions/post-types.php:62
+msgid "View Testmonial"
+msgstr "Ver Depoimento"
+
+#: ../functions/post-types.php:63
+msgid "Search Testimonials"
+msgstr "Buscar Depoimentos"
+
+#: ../functions/post-types.php:64
+msgid "No testimonial found"
+msgstr "Nenhum depoimento encontrado"
+
+#: ../functions/post-types.php:65
+msgid "No testimonial in Trash"
+msgstr "Nenhum depoimento na Lixeira"
+
+#: ../functions/post-types.php:66
+msgid "Parent Testimonial"
+msgstr "Depoimento Pai"
+
+#: ../functions/shortcodes.php:316
+#: ../functions/shortcodes.php:605
+msgid "Please wait while our tweets load"
+msgstr "Por favor, aguarde enquanto os tweets carregam"
+
+#: ../functions/shortcodes.php:462
+msgid "Read more"
+msgstr "Leia mais"
+
+#: ../functions/sidebars.php:30
+msgid "Page Widgets"
+msgstr "Page Widgets"
+
+#: ../functions/sidebars.php:31
+msgid "Widgets inserted here will show up in the sidebar sections for pages."
+msgstr "Widgets inseridos aqui serã oexibidos na barra lateral das páginas."
+
+#: ../functions/sidebars.php:43
+msgid "Blog Widgets"
+msgstr "Blog Widgets"
+
+#: ../functions/sidebars.php:44
+msgid "Widgets inserted here will show up in the sidebar sections for the blog."
+msgstr "Widgets inseridos aqui serão exibidos na barra lateral do blog."
+
+#: ../functions/sidebars.php:56
+msgid "Portfolio Widgets"
+msgstr "Portfolio Widgets"
+
+#: ../functions/sidebars.php:57
+msgid "Widgets inserted here will show up in the sidebar sections for the portfolio."
+msgstr "Widgets inseridos aqui serão exibidos na barra lateral do portfolio."
+
+#: ../functions/widgets/widget.recent-posts.php:21
+msgid "Show latest posts from blog or portfolio."
+msgstr "Exibir últimos posts do blog ou portfolio."
+
+#: ../functions/widgets/widget.recent-posts.php:27
+msgid "JW - Latest Posts"
+msgstr "JW - Últimos Posts"
+
+#: ../functions/widgets/widget.recent-posts.php:73
+msgid "Recent Posts"
+msgstr "Posts Recentes"
+
+#: ../functions/widgets/widget.recent-posts.php:78
+#: ../functions/widgets/widget.recent-tweets.php:77
+#: ../functions/widgets/widget.slider-posts.php:98
+#: ../functions/widgets/widget.testimonials.php:76
+msgid "Title:"
+msgstr "Título:"
+
+#: ../functions/widgets/widget.recent-posts.php:79
+#: ../functions/widgets/widget.testimonials.php:77
+msgid "Title will show up as \"heading\" for the widget in the sidebar"
+msgstr "Título será exibido como \"heading\" para o widget na barra lateral"
+
+#: ../functions/widgets/widget.recent-posts.php:88
+msgid "Post type:"
+msgstr "Tipo de post:"
+
+#: ../functions/widgets/widget.recent-posts.php:89
+msgid "What do you want to show posts from, blog or portfolio?"
+msgstr "De onde você quer exibir os posts, blog ou portfolio?"
+
+#: ../functions/widgets/widget.recent-posts.php:101
+#: ../functions/widgets/widget.recent-tweets.php:97
+#: ../functions/widgets/widget.slider-posts.php:139
+#: ../functions/widgets/widget.testimonials.php:86
+msgid "Amount:"
+msgstr "Quantidade:"
+
+#: ../functions/widgets/widget.recent-posts.php:102
+#: ../functions/widgets/widget.testimonials.php:87
+msgid "How many posts to show"
+msgstr "Quantos posts exibir"
+
+#: ../functions/widgets/widget.recent-tweets.php:21
+msgid "Show recent tweets."
+msgstr "Exibir tweets recentes."
+
+#: ../functions/widgets/widget.recent-tweets.php:27
+msgid "JW - Recent Tweets"
+msgstr "JW - Tweets Recentes"
+
+#: ../functions/widgets/widget.recent-tweets.php:87
+msgid "Profile:"
+msgstr "Perfil:"
+
+#: ../functions/widgets/widget.slider-posts.php:21
+msgid "Show blog or portfolio post in a slider. Location: Anywhere"
+msgstr "Exibir post do blog ou portfolio em um slider. Localização: Qualquer Lugar"
+
+#: ../functions/widgets/widget.slider-posts.php:27
+msgid "JW - Slider Posts"
+msgstr "JW - Slider Posts"
+
+#: ../functions/widgets/widget.slider-posts.php:110
+msgid "Post Type:"
+msgstr "Tipo de Post:"
+
+#: ../functions/widgets/widget.slider-posts.php:127
+msgid "Tag:"
+msgstr "Tag:"
+
+#: ../functions/widgets/widget.slider-posts.php:159
+msgid "Other options:"
+msgstr "Outras opções:"
+
+#: ../functions/widgets/widget.testimonials.php:21
+msgid "Show latest testimonials with a fading effect."
+msgstr "Exibir últimos depoimentos com um efeito fading."
+
+#: ../functions/widgets/widget.testimonials.php:27
+msgid "JW - Testimonials"
+msgstr "JW - Depoimentos"
+

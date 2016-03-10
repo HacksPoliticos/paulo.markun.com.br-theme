@@ -1,0 +1,87 @@
+/* LINKS */
+a {
+	color: #c23b3b;
+}
+
+#nav li.active a {
+    color: #eb5e5e;
+}
+
+/*  SLIDER HEADER TXT */
+#header div.content h2 {
+	color:#c23b3b;
+}
+
+/* NAVIGATION */
+#nav li.hover a,
+#nav a:hover {
+	color: #c23b3b;
+}
+
+#nav ul ul li.hover a,
+#nav ul ul a:hover,
+#nav ul ul li.hover ul a:hover {
+	color: #ffffff;
+	background-color: #eb5e5e;
+}
+
+#nav li.hover ul a {
+	color: #363636;
+}
+
+#nav li.hover ul a:hover {
+	color: #ffffff;
+}
+
+#nav ul ul a,
+#nav ul ul li.hover ul a {
+	color: #363636;
+	background-color: #ffffff;
+}
+
+/* HEADER SLIDER */
+div.readmore a {
+	background: url(../images/skins/skin-8/btn-header.png) no-repeat 0 0 transparent;
+	color: #ffffff;
+}
+
+/* COLUMN HEADING */
+div#tabs ul.ui-tabs-nav,
+#column h4 {
+	background: url(../images/skins/skin-8/heading-column.png) repeat-x 0 00 transparent;
+	color: #ffffff;
+}
+
+#column.left-column h4 {
+	background-image: url(../images/skins/skin-8/heading-column-left.png);
+}
+
+#column h4 a {
+	color: #ffffff;
+}
+
+/* BUTTONS */
+button.btn.skin,
+a.btn.skin {
+	color: #ffffff;
+   background-color: #eb5e5e;
+}
+
+/* BLOG */
+div.entry-meta span.post-date {
+	background: url(../images/skins/skin-8/heading-blog-date.png) no-repeat 0 5px transparent;
+}
+
+#content.right-content span.post-date{ right:-46px; left:auto; background-image:url(../images/skins/skin-8/heading-blog-date-right.png); }
+
+/* PORTFOLIO */
+.portfolio.grid li a.folio-more,
+.portfolio.grid div.content div.row span.name {
+	background-color: #eb5e5e;
+	color: #ffffff;
+}
+
+/* MISC */
+.highlight {
+	color: #c23b3b;
+}
